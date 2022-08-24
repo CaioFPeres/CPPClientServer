@@ -1,0 +1,11 @@
+﻿Server.obj : error LNK2019: símbolo externo não resolvido, __imp__accept@12, referenciado na função "public: void __thiscall Server::Listen(void)" (?Listen@Server@@QAEXXZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__bind@12, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__closesocket@4, referenciado na função "public: void __thiscall Server::Listen(void)" (?Listen@Server@@QAEXXZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__htons@4, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__recv@16, referenciado na função "public: void __thiscall Server::Listen(void)" (?Listen@Server@@QAEXXZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__socket@12, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__WSAStartup@8, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__WSACleanup@0, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__WSAGetLastError@0, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+Server.obj : error LNK2019: símbolo externo não resolvido, __imp__inet_pton@12, referenciado na função "public: __thiscall Server::Server(void)" (??0Server@@QAE@XZ)
+C:\Users\Caio Peres\source\repos\CPPServer\Debug\CPPServer.exe : fatal error LNK1120: 10 externo não resolvidos
