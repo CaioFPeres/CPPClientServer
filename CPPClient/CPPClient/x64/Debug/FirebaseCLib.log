@@ -1,6 +1,0 @@
-﻿D:\Programas\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (FirebaseCLib.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  Client.cpp
-C:\Users\Caio Peres\source\repos\FirebaseCLib\FirebaseCLib\Client.cpp(49,53): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
-  main.cpp
-  Gerando Código...
-  FirebaseCLib.vcxproj -> C:\Users\Caio Peres\source\repos\FirebaseCLib\x64\Debug\CPPClient.exe
